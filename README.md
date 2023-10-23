@@ -1,5 +1,5 @@
 # Fit for Fun Application
-* Presenting an incredible exercise app UI clone! This application replicates the functionality and aesthetics of a fitness app, providing a vast range of exercise options. Built with Material UI for a polished look, asynchronous methods for seamless API fetching, React Router for smooth navigation, and React for a captivating user experience. Discover a wide array of exercises and stay motivated on your fitness journey with this intuitive and visually appealing clone app.
+* Presenting an incredible exercise app UI clone! This application replicates the functionality and aesthetics of a fitness app, providing a vast range of exercise options. Built with Material UI for a polished look, asynchronous methods for seamless API fetching, React Router for smooth navigation, and React for a captivating user experience. Discover a wide array of exercises and stay motivated on your fitness journey with this intuitive and visually appealing clone app. Got the design from "JavaScript Mastery" youtube channel.
 
 # Dependencies used,
 1. React Hooks
